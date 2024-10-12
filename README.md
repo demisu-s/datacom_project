@@ -1,6 +1,5 @@
 Socket Programming in Python
 Socket programming is a way of enabling communication between two or more devices over a network. In Python, the socket module provides a low-level interface for network communication using standard internet protocols such as TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). This allows Python programs to establish connections, send and receive data, and handle network protocols.
-
 Basic Concepts
 Client-Server Model: A common paradigm in socket programming where the server listens for incoming client connections, and clients initiate communication with the server.
 IP Address: The unique address of a device on a network.
